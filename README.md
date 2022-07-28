@@ -1,1 +1,3 @@
 # git-exercise
+salut
+buna
